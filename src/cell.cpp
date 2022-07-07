@@ -90,7 +90,7 @@ vector<int32_t> tokenize(const std::string region_spec)
       fatal_error(err_msg);
     }
   }
-
+  that was very good!!!!
   // Add in intersection operators where a missing operator is needed.
   int i = 0;
   while (i < tokens.size() - 1) {
